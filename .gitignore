@@ -4,3 +4,5 @@ facial_key_points_project_report_stanford.pdf
 .DS_Store
 .ipynb_checkpoints/
 __pycache__/
+X.npy
+y.npy
